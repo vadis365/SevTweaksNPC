@@ -1,0 +1,20 @@
+[
+{
+  "modid": "sev_tweaks_npc",
+  "name": "sev_tweaks_npc",
+  "description": "Stuff",
+  "version": "0.0.3",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "vadis365, Shinoow, Darkosto"
+  ],
+  "credits": "Thanks to Shinoow for sounds",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]

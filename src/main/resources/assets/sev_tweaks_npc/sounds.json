@@ -1,0 +1,31 @@
+{
+  "ladder_placement": {
+    "category": "block",
+    "sounds": [
+      "sev_tweaks_npc:ladder_placement"
+    ]
+  },
+    "glen_whinge": {
+    "sounds": [
+      "sev_tweaks_npc:glen_whinge_1",
+      "sev_tweaks_npc:glen_whinge_2",
+      "sev_tweaks_npc:glen_whinge_3"
+    ]
+  },
+    "glen_hurt": {
+    "sounds": [
+      "sev_tweaks_npc:glen_hurt_1",
+      "sev_tweaks_npc:glen_hurt_2"
+    ]
+  },
+    "glen_barf_1": {
+    "sounds": [
+      "sev_tweaks_npc:glen_barf_1"
+    ]
+  },
+    "glen_death": {
+    "sounds": [
+      "sev_tweaks_npc:glen_death"
+    ]
+  }
+  }

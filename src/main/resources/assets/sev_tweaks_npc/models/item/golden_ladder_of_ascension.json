@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "sev_tweaks_npc:items/golden_ladder_of_ascension"
+  }
+}

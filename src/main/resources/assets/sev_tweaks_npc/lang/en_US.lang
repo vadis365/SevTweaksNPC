@@ -1,0 +1,6 @@
+entity.glen.name=Glen G.
+item.sev_tweaks_npc.golden_ladder_of_ascension.name=Golden Ladder of Ascension
+tooltip.golden_ladder_of_ascension_1=Use on ground where the sky is visible.
+tooltip.golden_ladder_of_ascension_2=Needs a 5x5 un-obstructed area below Y 100.
+tooltip.golden_ladder_of_ascension_3=Stand at least 3 blocks back.
+chat.ladder.noplace=Something is In the way.
