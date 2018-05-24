@@ -108,7 +108,7 @@ public class EntityGlen extends EntityCreature {
 
 	@Override
     protected boolean canDespawn() {
-       return true;
+       return false;
     }
 
 	@Override
