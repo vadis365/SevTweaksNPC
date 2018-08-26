@@ -1,0 +1,6 @@
+entity.glen.name=Глен G.
+item.sev_tweaks_npc.golden_ladder_of_ascension.name=Золотая лестница Восхождения
+tooltip.golden_ladder_of_ascension_1=Используй на земле, где чистое небо.
+tooltip.golden_ladder_of_ascension_2=Нужна беспрепятственная область 5x5 ниже Y 100.
+tooltip.golden_ladder_of_ascension_3=Встань как минимум в 3-ёх кварталах.
+chat.ladder.noplace=Что-то мешает.
